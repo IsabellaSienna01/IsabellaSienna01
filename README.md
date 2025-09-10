@@ -8,7 +8,6 @@
 ## About Me
 - 📚 Second-year Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**  
 - 🌱 Currently learning **Web Programming, OOP, and Computer Networks**  
-- 🤝 Love collaborating on open-source and educational projects  
 ---
 
 ## 🧩 Tech Stack
@@ -41,6 +40,4 @@
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: [isabellasienna001@gmail.com](mailto:isabellasienna001@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/isabellasienna](https://linkedin.com/in/isabellasienna)  
-- 🌐 Blogspot: [isabellasienna001.blogspot.com](https://isabellasienna001.blogspot.com)
