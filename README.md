@@ -7,7 +7,7 @@
 
 ## About Me
 - 📚 Second-year Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**  
-- 🌱 Currently learning **Web Programming, OOP, and Computer Networks**  
+- 🌱 Currently learning **Machine Learning, Software Design, Network Programming**  
 ---
 
 ## 🧩 Tech Stack
