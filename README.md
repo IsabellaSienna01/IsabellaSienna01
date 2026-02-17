@@ -31,18 +31,6 @@
 ---
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSienna01&layout=compact&theme=tokyonight" height="150" />
-    </td>
-    <td>
+<p>
       <img src="https://streak-stats.demolab.com?user=IsabellaSienna01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/isabellasienna](https://linkedin.com/in/isabellasienna)  
+</p>
