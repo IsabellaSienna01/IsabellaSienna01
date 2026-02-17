@@ -23,6 +23,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/263/431/png-clipart-javaserver-pages-jar-java-servlet-computer-software-jar-text-logo.png" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="60" height="60"/>
+  
 </p>
 
 ---
