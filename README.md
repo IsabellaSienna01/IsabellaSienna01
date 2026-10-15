@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-- 📚 Second-year Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**  
+- 📚 Third-year Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**  
 - 🌱 Currently learning **Image Processing & Computer Vision, Framwork Programming, Research Operations**  
 
 <h3 align="left">Languages and Tools:</h3>
